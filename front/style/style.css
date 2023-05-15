@@ -1,0 +1,10 @@
+
+.error .form-control {
+    border-color: brown;
+}
+
+.error-lable {
+    display: block;
+    color:brown;
+    margin-bottom: 10px;
+}
